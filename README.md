@@ -20,5 +20,5 @@
 
 ![HACKER CATS](/docs/assets/cats-computer.gif)
 
-## <center>**This is my [Instagram](https://www.instagram.com/accidentalretox/)**</center>
+## <center>**This is my</center>** [Instagram](https://www.instagram.com/accidentalretox/)
    <center>Go ahead and follow if you want to see pictures of my cat.</center>
