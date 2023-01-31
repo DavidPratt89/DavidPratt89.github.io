@@ -6,10 +6,10 @@ Welcome to my GitHub Page.
 Lets see what we can do with this.
 
 ## About Me
-  # My Interests
+  **My Interests**
     * Drumming
     * Video Games
     * Computer Science
-  # [Instagram]([url](https://www.instagram.com/accidentalretox/))
+  **[Instagram]([url](https://www.instagram.com/accidentalretox/))**
 
 This site was built using [GitHub Pages](https://pages.github.com/).
