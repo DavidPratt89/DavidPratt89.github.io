@@ -10,13 +10,13 @@
   **My Interests**
   
     * Drumming
-![](https://media.tenor.com/uAsp1Z7YJfgAAAAC/muppet-family-christmas-muppets.gif)
+![METAL!](https://media.tenor.com/uAsp1Z7YJfgAAAAC/muppet-family-christmas-muppets.gif)
     
     * Video Games
-![](https://media.tenor.com/pjLsAVyJPwwAAAAC/diablo-ii-remaster-resurrected.gif)
+![DIABLO!](https://media.tenor.com/pjLsAVyJPwwAAAAC/diablo-ii-remaster-resurrected.gif)
     
     * Computer Science
-![](https://media.tenor.com/yQ6QlIyJf-EAAAAC/cats-computer.gif)
+![HACKER CATS!](https://media.tenor.com/yQ6QlIyJf-EAAAAC/cats-computer.gif)
 
   # **[Instagram]([url](https://www.instagram.com/accidentalretox/))**
   Go ahead and follow if you like pictures of my cat.
