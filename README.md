@@ -10,8 +10,9 @@
   # **My Interests**
     * Drumming
     * Video Games
-![Diablo II}(https://media.tenor.com/pjLsAVyJPwwAAAAC/diablo-ii-remaster-resurrected.gif)
+![Diablo II](https://media.tenor.com/pjLsAVyJPwwAAAAC/diablo-ii-remaster-resurrected.gif)
     * Computer Science
+
   # **[Instagram]([url](https://www.instagram.com/accidentalretox/))**
 
 This site was built using [GitHub Pages](https://pages.github.com/).
