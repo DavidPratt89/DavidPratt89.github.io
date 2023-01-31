@@ -19,6 +19,6 @@
 ![HACKER CATS!](https://media.tenor.com/yQ6QlIyJf-EAAAAC/cats-computer.gif)
 
   # **[Instagram]([url](https://www.instagram.com/accidentalretox/))**
-  Go ahead and follow if you like pictures of my cat.
+  Go ahead and follow if you want to see pictures of my cat.
 
 This site was built using [GitHub Pages](https://pages.github.com/).
