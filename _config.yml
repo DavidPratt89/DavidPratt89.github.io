@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: DavidPratt89's homepage
 description: My very first GitHub Page!
+source 'https://rubygems.org'
+gem 'nokogiri'
+gem 'rack', '~> 2.2.4'
+gem 'rspec'
