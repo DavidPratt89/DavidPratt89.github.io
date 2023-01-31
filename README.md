@@ -1,5 +1,5 @@
 # **David Pratt**
-![Spoon Boy](https://static.wikia.nocookie.net/matrix/images/6/63/Spoon_boy.png/revision/latest?cb=20110124083000)
+![Spoon Boy](https://static.wikia.nocookie.net/matrix/images/6/63/Spoon_boy.png/)
 > ~~"There is no spoon"~~
 
 Welcome to my GitHub Page. 
