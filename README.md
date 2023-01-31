@@ -9,8 +9,10 @@
 ## About Me
   # **My Interests**
     * Drumming
+![](https://media.tenor.com/uAsp1Z7YJfgAAAAC/muppet-family-christmas-muppets.gif)
     * Video Games
-![Diablo II](https://media.tenor.com/pjLsAVyJPwwAAAAC/diablo-ii-remaster-resurrected.gif)
+![](https://media.tenor.com/pjLsAVyJPwwAAAAC/diablo-ii-remaster-resurrected.gif)
+    
     * Computer Science
 
   # **[Instagram]([url](https://www.instagram.com/accidentalretox/))**
